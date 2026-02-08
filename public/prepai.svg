@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Background square -->
+  <rect width="128" height="128" rx="20" fill="#0d9488"/>
+  
+  <!-- Center star -->
+  <polygon points="64,32 72,62 104,64 81,84 89,114 64,93.5 39,114 47,84 24,64 56,62" fill="white"/>
+  
+  <!-- Top left small spark -->
+  <circle cx="32" cy="32" r="6" fill="white" opacity="0.8"/>
+  <circle cx="28" cy="28" r="3" fill="white" opacity="0.5"/>
+  
+  <!-- Top right small spark -->
+  <circle cx="96" cy="32" r="6" fill="white" opacity="0.8"/>
+  <circle cx="100" cy="28" r="3" fill="white" opacity="0.5"/>
+  
+  <!-- Bottom right small spark -->
+  <circle cx="100" cy="96" r="6" fill="white" opacity="0.8"/>
+  <circle cx="104" cy="100" r="3" fill="white" opacity="0.5"/>
+</svg>
