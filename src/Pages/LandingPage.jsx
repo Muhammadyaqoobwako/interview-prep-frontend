@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { APP_FEATURES } from "../utils/data";
 import { LuSparkles } from "react-icons/lu";
-import HERO_IMG from "../assets/HERO_IMG.png";
+import HERO_IMG from "../assets/hero_img.png";
 import Modal from "../components/Modal";
 import Login from "../Pages/Auth/Login";
 import Signup from "../Pages/Auth/SignUp";
